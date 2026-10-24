@@ -4,6 +4,8 @@ Embedded Systems • Applied Physics • Assistive Technology
 ## 📌 Overview
 Signet is a hardware-software assistive device designed to translate hand gestures into spoken audio in real time. Built as an applied physics investigative project, the glove leverages flex sensors and inertial measurement units (IMU) to process fine motor movements and output spoken words.
 
+🔗 **Live Web Dashboard:** [kinetovox-signet.netlify.app](https://kinetovox-signet.netlify.app/)
+
 ## 🚀 Key Features
 - **Gesture Recognition:** Translates distinct hand flex configurations into verbalized output.
 - **Applied Physics:** Utilizes piezoresistive sensor behavior and Ohm's law principles for analog voltage-divider signal processing.
@@ -19,3 +21,5 @@ signet/
 ├── arduino/        # Microcontroller source code (C++/Embedded C) & sensor logic
 ├── assets/         # Project documentation, and full research report
 └── website/        # Interactive website source files (HTML/CSS/JS)
+
+
