@@ -12,3 +12,10 @@ Signet is a hardware-software assistive device designed to translate hand gestur
 ## 🛠 Tech Stack
 - **Hardware:** Arduino, Flex Sensors, MPU6050 Gyroscope/Accelerometer, Audio Output Module.
 - **Software:** C++, Embedded C.
+
+## 📁 Repository Structure
+```text
+signet/
+├── arduino/        # Microcontroller source code (C++/Embedded C) & sensor logic
+├── assets/         # Project documentation, and full research report
+└── website/        # Interactive website source files (HTML/CSS/JS)
